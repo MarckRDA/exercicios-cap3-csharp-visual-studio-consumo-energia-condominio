@@ -1,0 +1,10 @@
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\bin\Debug\ConsumoEnergiaCondomínio.exe.config
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\bin\Debug\ConsumoEnergiaCondomínio.exe
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\bin\Debug\ConsumoEnergiaCondomínio.pdb
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.csprojAssemblyReference.cache
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.ConsumoEnergia.resources
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.Properties.Resources.resources
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.csproj.GenerateResource.cache
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.csproj.CoreCompileInputs.cache
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.exe
+E:\C#-projects\excercises\Cap3 - csharp-visual-studio\Resolucao-cap-3-csharp-visual-studio\ConsumoEnergiaCondomínio\obj\Debug\ConsumoEnergiaCondomínio.pdb
